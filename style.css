@@ -1,0 +1,74 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  
+  
+  .nav_size{
+    height:100px;
+  }
+  
+  .nav_font{
+      font-size: 35px;
+  }
+  
+  .search_btn{
+    background-color: #5a5958;
+    border:#5a5958;
+     transition: all 2s;
+  }
+  
+  .search_btn:focus{
+    background-color: #5a5958;
+  }
+  
+  .search_btn:hover{
+    background-color: #5a4a3f;
+  }
+  
+  .search_btn:active{
+    background-color: #5a5958;
+  }
+  
+  .main_text{
+    margin-top:70px;
+    text-align: center;
+  }
+  
+  .main_text_1{
+    font-size: 20px;
+    font-weight: 700;
+  }
+  
+  
+  .main_text_2{
+    font-size: 15px;
+    font-weight: 700;
+  }
+  
+  
+  .btn_mom{
+    margin:50px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .btn_video{
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 150px;
+    margin-bottom: 70px;
+    
+  }
+  
+  .btn_video:hover{
+    background-color: white;
+    color:black;
+  }
+  
+  .card_margin{
+    margin-bottom: 100px;
+    
+  }
